@@ -4,14 +4,6 @@
 
 **🔗 Live Demo:** [https://ni15raj.github.io/Tic-Tac-Toe](https://ni15raj.github.io/Tic-Tac-Toe)
 
----
-
-## 📸 Preview
-
-![Tic Tac Toe Preview](https://via.placeholder.com/800x400?text=Tic+Tac+Toe+Game+Preview)
-<!-- Replace this with a screenshot of your game UI -->
-
----
 
 ## 🎮 How to Play
 
