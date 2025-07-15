@@ -2,7 +2,7 @@
 
 > A classic two-player Tic Tac Toe game built using HTML, CSS, and JavaScript. Challenge a friend and see who wins!
 
-**🔗 Live Demo:** [https://ni15raj.github.io/Tic-Tac-Toe](https://ni15raj.github.io/Tic-Tac-Toe)
+**🔗 Live Demo:** [https://ni15raj.github.io/TicTacToe/](https://ni15raj.github.io/TicTacToe/)
 
 
 ## 🎮 How to Play
